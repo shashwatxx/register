@@ -1,0 +1,12 @@
+{
+  "description": "Personal Portfolio Website",
+  "repo": "https://github.com/shashwatxx/shashwatxx.github.io",
+  "owner": {
+    "username": "shashwatxx",
+    "email": "shashwatmishra2111@gmail.com",
+    "twitter": "donotsneek"
+  },
+  "record": {
+    "CNAME": "shashwatxx.github.io"
+  }
+}
